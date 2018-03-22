@@ -1,5 +1,5 @@
 {
-  "name": "socks",
+  "name": "@castor/socks",
   "private": false,
   "version": "2.1.6",
   "description": "Fully featured SOCKS proxy client supporting SOCKSv4, SOCKSv4a, and SOCKSv5. Includes Bind and Associate functionality.",
